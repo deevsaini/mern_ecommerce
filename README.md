@@ -39,5 +39,26 @@ CLOUDINARY_API_SECRET
 👆🏻
 _fill each filed with your info respectively_
 
+# Demo:
+
+</br>
+</br>
+Landing page :
+</br>
+</br>
+<img src="images/1.png" align="center">
+</br>
+</br>
+Home Page:
+</br>
+</br>
+<img src="images/2.png" align="center">
+</br>
+</br>
+hamburger:
+</br>
+</br>
+<img src="images/3.png" align="center">
+
  <br/>
   <p align = "center">Show Some Love, &#11088; the Repositories! </p>
